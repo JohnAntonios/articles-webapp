@@ -1,4 +1,1 @@
-# Better than any Python framework :)
-
-### Why?
-Better developer experience and Python is too slow :)
+My first project with GoLang. Better than most languages out there in my opinion.
