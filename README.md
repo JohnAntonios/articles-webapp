@@ -3,7 +3,7 @@ My first project with GoLang.
 # My Findings
 
 Go is very opinionated - compared to other languages. There is a single, unified style of writing in Go.
-I see this as being a massive benefit in teams as there is no need to deal with idiosyncrasies and perosnal styles of programming, it all conforms to one style set out by Go.
+I see this as being a massive benefit in teams as there is no need to deal with idiosyncrasies and personal styles of programming, it all conforms to one style set out by Go.
 
 I see the hate about Go and don't understand why there is so much hate - perhaps those who push the agenda simply have not embraced Go or have been involved in a meaningful or large enough product using Go instead of writing just "Hello, World!" and judge it off that biased experiment. 
 
