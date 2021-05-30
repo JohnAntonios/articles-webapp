@@ -11,4 +11,4 @@ Go seems to be a very fast and scalable language that promotes separation of con
 
 Go seems to go off the ideology that a language should contain as few features as necessary, for more efficient programming. There is a mental check-out when dealing with traditional languages like Python and Java whereby the solutions are littered everywhere - whether it is Stack Overflow or one of the million books you can read, while Go requires you to think logically and utilise what it has out-of-the-box creating very unique solutions that are quite performant as well.
 
-It's also very easy to google problems with Go, and there is only a few accepted answers because that is the style. There is no variations of doing something that would create confusion or debate - the premise is either accept it or don't and I accept it 
+It's also very easy to google problems with Go, and there is only a few accepted answers because that is the style. There is no variations of doing something that would create confusion or debate - the premise is either accept it or don't and I accept it 🙂.
